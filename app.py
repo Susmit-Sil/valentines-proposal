@@ -575,7 +575,7 @@ def show_celebration():
     st.markdown("""
         <div class="romantic-container">
             <h2 style="text-align: center; color: #E75480; font-family: Georgia, serif;">
-                💕 Happy Valentine's Day, My Love! 💕
+                💕 Happy Propose Day, Pritisha! 💕
             </h2>
             <p style="font-family: Georgia, serif; color: #8B4B6A; font-size: 1.2rem; line-height: 1.8; text-align: center; padding: 1rem;">
                 Thank you for being the most amazing person in my life.
